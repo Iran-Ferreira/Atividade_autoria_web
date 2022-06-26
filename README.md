@@ -1,2 +1,2 @@
 # Atividade_autoria_web
-Atividade para fazer uma página da G1
+Atividade para fazer uma página do G1
