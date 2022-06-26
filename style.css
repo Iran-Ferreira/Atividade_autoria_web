@@ -10,6 +10,10 @@ body{
     height: 2200px;
 }
 
+.destaque{
+    color: #A6130A;
+}
+
 #line1{
     position: absolute;
     width: 1020px;
@@ -21,7 +25,7 @@ body{
 
 #line2{
     position: absolute;
-    width: 254px;
+    width: 244px;
     height: 0px;
     left: 255px;
     top: 1870px;
